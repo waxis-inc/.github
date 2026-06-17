@@ -8,24 +8,43 @@
   </a>
 </p>
 
-<h3 align="center">B2B AI server and platform software for business operations.</h3>
+<h3 align="center">Enterprise AI server platform for real business operations.</h3>
 
-Waxis Inc builds production AI systems that connect models, business software, data, and human workflows. We help companies ship AI server layers, workflow automation, business agents, knowledge bases, custom LLM systems, and intelligent data platforms that can be deployed, audited, and maintained.
+Waxis Inc helps B2B companies connect models, workflows, knowledge, data, and agents into deployable, governable AI software systems. We build production platforms that go beyond chatbots and concept demos: AI control planes, workflow automation, business agents, enterprise knowledge systems, customer operations AI, supply chain automation, and AI-ready data analytics.
 
-## What We Build
+## Platform Capabilities
 
-- AI server and model gateway layers
-- Workflow automation for real business processes
-- Business agents with tool use and human approval
-- Knowledge base, RAG, and enterprise search systems
-- Custom LLM training and evaluation workflows
-- Intelligent data storage, metrics, analysis, and reporting
+- Enterprise AI control planes for model routing, access, logs, policies, cost control, and provider reliability
+- Workflow automation for sales, procurement, support, warehouse, finance, approvals, and operations
+- Business agents that read materials, call tools, generate files, update systems, and complete multi-step work
+- Enterprise knowledge, RAG, citation tracing, access control, and domain AI for proprietary company knowledge
+- AI-ready data and analytics with ingestion, semantic metrics, natural-language queries, reports, and anomaly alerts
+
+## Client Solutions
+
+- Enterprise AI Control Plane
+- Sales & Customer Service AI
+- Supply Chain & Inventory Automation
+- Enterprise Knowledge & Domain AI
+- AI-ready Data & Analytics
+
+## How We Deliver
+
+We start with one valuable workflow, then expand it into a maintainable platform.
+
+1. Business diagnosis: goals, human workflow, existing systems, data locations, access boundaries, and launch constraints
+2. Architecture design: how the AI server, workflows, agents, knowledge base, and data layer connect
+3. MVP launch: one high-value use case with human checkpoints, logs, monitoring, and fallback behavior
+4. System expansion: more business lines, data sources, access roles, and automation steps
+5. Operating optimization: cost, accuracy, response speed, and adoption improved through real usage data
+
+Precision. Structure. Trust.
 
 ## Contact
 
 - Website: [waxis.org](https://www.waxis.org)
 - Email: [support@waxis.org](mailto:support@waxis.org)
-- Location: Ontario, Canada
+- Location: Toronto, Canada
 
 ## Repository
 
