@@ -1,6 +1,10 @@
 <p align="center">
   <a href="https://www.waxis.org">
-    <img src="./waxis-logo.svg" alt="Waxis Inc" width="360">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./waxis-logo-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./waxis-logo-light.svg">
+      <img src="./waxis-logo-light.svg" alt="Waxis Inc" width="460">
+    </picture>
   </a>
 </p>
 

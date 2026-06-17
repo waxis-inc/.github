@@ -1,0 +1,8 @@
+<svg viewBox="0 0 980 280" xmlns="http://www.w3.org/2000/svg" aria-label="Waxis Inc horizontal logo">
+  <rect width="980" height="280" rx="0" fill="transparent"/>
+  <path d="M78 22H130L232 258H181L78 22Z" fill="#F7FAF8"/>
+  <path d="M208 258L255 143L284 199L252 258H208Z" fill="#F1B84B"/>
+  <path d="M246 22H299L405 258H354L246 22Z" fill="#F7FAF8"/>
+  <path d="M374 22H445L342 258H291L392 22H374Z" fill="#F7FAF8"/>
+  <text x="500" y="154" fill="#F7FAF8" font-family="Aptos, Segoe UI, Helvetica, Arial, sans-serif" font-size="70" font-weight="700">Waxis Inc</text>
+</svg>
