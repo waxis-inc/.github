@@ -1,8 +1,9 @@
 <svg viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg" aria-label="Waxis Inc avatar">
-  <rect width="1024" height="1024" rx="220" fill="#10181F"/>
-  <rect x="64" y="64" width="896" height="896" rx="172" fill="none" stroke="#F1B84B" stroke-width="28" opacity="0.95"/>
-  <path d="M202 162H302L499 862H399L202 162Z" fill="#F7FAF8"/>
-  <path d="M450 862L535 528L593 694L535 862H450Z" fill="#F1B84B"/>
-  <path d="M526 162H626L824 862H724L526 162Z" fill="#F7FAF8"/>
-  <path d="M738 162H878L681 862H581L774 162H738Z" fill="#F7FAF8"/>
+  <rect width="1024" height="1024" fill="#10181F"/>
+  <g transform="translate(-58 207) scale(2.18)">
+    <path d="M78 22H130L232 258H181L78 22Z" fill="#F7FAF8"/>
+    <path d="M208 258L255 143L284 199L252 258H208Z" fill="#F1B84B"/>
+    <path d="M246 22H299L405 258H354L246 22Z" fill="#F7FAF8"/>
+    <path d="M374 22H445L342 258H291L392 22H374Z" fill="#F7FAF8"/>
+  </g>
 </svg>
