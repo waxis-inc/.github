@@ -20,13 +20,22 @@ Waxis Inc helps B2B companies connect models, workflows, knowledge, data, and ag
 - Enterprise knowledge, RAG, citation tracing, access control, and domain AI for proprietary company knowledge
 - AI-ready data and analytics with ingestion, semantic metrics, natural-language queries, reports, and anomaly alerts
 
-## Client Solutions
+## Public Product Repositories
 
-- Enterprise AI Control Plane
-- Sales & Customer Service AI
-- Supply Chain & Inventory Automation
-- Enterprise Knowledge & Domain AI
-- AI-ready Data & Analytics
+- [Waxis AI Control Plane](https://github.com/waxis-inc/waxis-ai-control-plane)  
+  Governed AI model gateway, routing, guardrails, observability, approvals, and evaluation control plane.
+
+- [Waxis Sales & Customer Service AI](https://github.com/waxis-inc/waxis-sales-customer-service-ai)  
+  AI customer operations layer for sales, support, customer records, handoff, QA, and risk alerts.
+
+- [Waxis Supply Chain & Inventory Automation](https://github.com/waxis-inc/waxis-supply-chain-inventory-automation)  
+  AI-assisted inventory health, replenishment, supplier risk, exception management, and supply-chain workflows.
+
+- [Waxis Enterprise Knowledge & Domain AI](https://github.com/waxis-inc/waxis-enterprise-knowledge-domain-ai)  
+  Permissioned enterprise knowledge, RAG, citations, GraphRAG-style domain AI, and agent-ready knowledge APIs.
+
+- [Waxis AI-ready Data & Analytics](https://github.com/waxis-inc/waxis-ai-ready-data-analytics)  
+  Governed data ingestion, semantic metrics, natural-language analytics, recurring reports, and anomaly alerts.
 
 ## How We Deliver
 
@@ -46,6 +55,6 @@ Precision. Structure. Trust.
 - Email: [support@waxis.org](mailto:support@waxis.org)
 - Location: Toronto, Canada
 
-## Repository
+## Website
 
-- [Official website](https://github.com/waxis-inc/waxis-official-website)
+- [waxis.org](https://www.waxis.org)
